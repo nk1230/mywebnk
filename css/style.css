@@ -917,7 +917,7 @@ h1.entry-title {
 }
 
 .close-icon {
-    background-image: url(/images/close-left-arrow.png) !important;
+    /*background-image: url(/images/close-left-arrow.png) !important;*/
     background-repeat: no-repeat;
     width: 70px;
     height: 70px;
